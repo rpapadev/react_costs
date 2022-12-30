@@ -11,10 +11,13 @@
     align-items: center;
 }
 
+.item {
+    margin-right: 1em;
+}
+
 .item a {
     color: #FFFF;
     text-decoration: none;
-    margin-right: 15px;
 }
 
 .item a:hover {
